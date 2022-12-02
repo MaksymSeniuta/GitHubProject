@@ -5,6 +5,6 @@ public class Homework1 {
 
 }
 private static void task1(){
-    System.out.println(" Hi my friend");
+    System.out.println(" Hi my friend!!!");
 }
     }
